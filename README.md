@@ -1,11 +1,11 @@
-# 🧠 AI Image Caption Generator
+#  AI Image Caption Generator
 
 An interactive web app that lets you **upload an image** and generates a cool **AI-like caption** for it.  
 Currently, it uses simulated captions (no backend), but you can later connect it to **Gemini**, **Hugging Face**, or **OpenAI’s Vision API** for real caption generation.  
 
 ---
 
-## 🌐 Live Demo  
+##  Live Demo  
 > Coming soon... (add your deployed link here later!)
 
 ---
